@@ -1,0 +1,142 @@
+[
+    {
+        "bank_name": "Axis Bank",
+        "maximum_tenure": 20.0,
+        "minimum_loan_amount": 500000.0,
+        "maximum_interest_rate": 14.71,
+        "minimum_age_limit": 24.0,
+        "maximum_age_limit": 65.0,
+        "maximum_loan_amount": 581000000.0,
+        "minimum_interest_rate": 9.65
+    },
+    {
+        "bank_name": "Bandhan Bank",
+        "maximum_tenure": 30.0,
+        "minimum_interest_rate": 11.89,
+        "maximum_interest_rate": 14.71,
+        "minimum_age_limit": 21.0,
+        "maximum_age_limit": 75.0,
+        "minimum_loan_amount": 616666.67,
+        "maximum_loan_amount": 581000000.0
+    },
+    {
+        "bank_name": "City Union Bank",
+        "maximum_tenure": 10.0,
+        "maximum_loan_amount": 75000000.0,
+        "minimum_interest_rate": 11.0,
+        "maximum_interest_rate": 12.0,
+        "minimum_age_limit": 21.0,
+        "maximum_age_limit": 65.0,
+        "minimum_loan_amount": 616666.67
+    },
+    {
+        "bank_name": "Federal Bank",
+        "maximum_tenure": 15.0,
+        "maximum_loan_amount": 50000000.0,
+        "minimum_interest_rate": 9.5,
+        "minimum_age_limit": 24.0,
+        "minimum_loan_amount": 616666.67,
+        "maximum_interest_rate": 12.58,
+        "maximum_age_limit": 70.0
+    },
+    {
+        "bank_name": "HDFC Bank",
+        "maximum_tenure": 15.0,
+        "minimum_interest_rate": 8.55,
+        "minimum_age_limit": 18.0,
+        "maximum_age_limit": 75.0,
+        "minimum_loan_amount": 616666.67,
+        "maximum_loan_amount": 581000000.0,
+        "maximum_interest_rate": 12.58
+    },
+    {
+        "bank_name": "ICICI Bank",
+        "maximum_tenure": 15.0,
+        "minimum_loan_amount": 500000.0,
+        "maximum_loan_amount": 10000000.0,
+        "minimum_interest_rate": 11.1,
+        "maximum_interest_rate": 11.75,
+        "minimum_age_limit": 20.0,
+        "maximum_age_limit": 70.0
+    },
+    {
+        "bank_name": "IndusInd Bank",
+        "maximum_tenure": 20.0,
+        "minimum_interest_rate": 8.15,
+        "maximum_interest_rate": 12.6,
+        "minimum_age_limit": 21.0,
+        "maximum_age_limit": 70.0,
+        "minimum_loan_amount": 616666.67,
+        "maximum_loan_amount": 581000000.0
+    },
+    {
+        "bank_name": "IDFC FIRST Bank",
+        "maximum_tenure": 25.0,
+        "maximum_loan_amount": 150000000.0,
+        "minimum_interest_rate": 9.55,
+        "minimum_age_limit": 21.0,
+        "maximum_age_limit": 70.0,
+        "minimum_loan_amount": 616666.67,
+        "maximum_interest_rate": 12.58
+    },
+    {
+        "bank_name": "Kotak Mahindra Bank",
+        "maximum_tenure": 15.0,
+        "minimum_loan_amount": 1000000.0,
+        "maximum_loan_amount": 50000000.0,
+        "minimum_interest_rate": 9.5,
+        "minimum_age_limit": 18.0,
+        "maximum_age_limit": 65.0,
+        "maximum_interest_rate": 12.58
+    },
+    {
+        "bank_name": "Bank of Baroda",
+        "maximum_tenure": 15.0,
+        "maximum_loan_amount": 100000000.0,
+        "minimum_interest_rate": 9.0,
+        "maximum_interest_rate": 12.0,
+        "minimum_age_limit": 21.0,
+        "minimum_loan_amount": 616666.67,
+        "maximum_age_limit": 70.0
+    },
+    {
+        "bank_name": "Bank of India",
+        "maximum_tenure": 15.0,
+        "maximum_loan_amount": 150000000.0,
+        "minimum_interest_rate": 9.1,
+        "maximum_interest_rate": 12.1,
+        "minimum_age_limit": 18.0,
+        "maximum_age_limit": 70.0,
+        "minimum_loan_amount": 616666.67
+    },
+    {
+        "bank_name": "Punjab National Bank",
+        "maximum_tenure": 15.0,
+        "minimum_loan_amount": 200000.0,
+        "maximum_loan_amount": 5000000000.0,
+        "minimum_interest_rate": 9.3,
+        "minimum_age_limit": 18.0,
+        "maximum_age_limit": 70.0,
+        "maximum_interest_rate": 12.58
+    },
+    {
+        "bank_name": "State Bank of India",
+        "maximum_tenure": 15.0,
+        "minimum_loan_amount": 1000000.0,
+        "maximum_loan_amount": 75000000.0,
+        "minimum_interest_rate": 9.2,
+        "maximum_interest_rate": 10.75,
+        "maximum_age_limit": 70.0,
+        "minimum_age_limit": 20.23
+    },
+    {
+        "bank_name": "Union Bank of India",
+        "minimum_loan_amount": 500000.0,
+        "maximum_loan_amount": 150000000.0,
+        "minimum_age_limit": 18.0,
+        "maximum_age_limit": 75.0,
+        "maximum_tenure": 17.31,
+        "minimum_interest_rate": 9.65,
+        "maximum_interest_rate": 12.58
+    }
+]

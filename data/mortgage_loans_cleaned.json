@@ -1,0 +1,72 @@
+[
+    {
+        "bank_name": "Telangana Grameena Bank",
+        "maximum_tenure": 10.0,
+        "maximum_interest_rate": 12.5,
+        "minimum_age_limit": 18.0,
+        "maximum_age_limit": 65.0,
+        "minimum_loan_amount": 440000.0,
+        "maximum_loan_amount": 134166666.67,
+        "minimum_interest_rate": 9.59
+    },
+    {
+        "bank_name": "Bank of Baroda",
+        "maximum_tenure": 15.0,
+        "minimum_interest_rate": 9.15,
+        "maximum_interest_rate": 11.75,
+        "minimum_loan_amount": 200000.0,
+        "maximum_loan_amount": 250000000.0,
+        "minimum_age_limit": 21.0,
+        "maximum_age_limit": 65.0
+    },
+    {
+        "bank_name": "Bank of India",
+        "maximum_tenure": 15.0,
+        "minimum_loan_amount": 500000.0,
+        "maximum_loan_amount": 5000000.0,
+        "minimum_interest_rate": 10.95,
+        "maximum_age_limit": 80.0,
+        "maximum_interest_rate": 11.98,
+        "minimum_age_limit": 19.0
+    },
+    {
+        "bank_name": "Canara Bank",
+        "maximum_tenure": 15.0,
+        "maximum_loan_amount": 75000000.0,
+        "minimum_interest_rate": 9.3,
+        "maximum_interest_rate": 11.69,
+        "minimum_age_limit": 18.0,
+        "minimum_loan_amount": 440000.0,
+        "maximum_age_limit": 70.83
+    },
+    {
+        "bank_name": "Central Bank of India",
+        "maximum_tenure": 15.0,
+        "minimum_loan_amount": 500000.0,
+        "maximum_loan_amount": 75000000.0,
+        "minimum_interest_rate": 9.4,
+        "maximum_interest_rate": 12.75,
+        "minimum_age_limit": 21.0,
+        "maximum_age_limit": 70.0
+    },
+    {
+        "bank_name": "Indian Bank",
+        "maximum_tenure": 15.0,
+        "minimum_loan_amount": 500000.0,
+        "maximum_loan_amount": 250000000.0,
+        "minimum_interest_rate": 9.2,
+        "maximum_interest_rate": 11.1,
+        "minimum_age_limit": 18.0,
+        "maximum_age_limit": 70.0
+    },
+    {
+        "bank_name": "Union Bank of India",
+        "maximum_tenure": 15.0,
+        "minimum_loan_amount": 500000.0,
+        "maximum_loan_amount": 150000000.0,
+        "minimum_interest_rate": 9.55,
+        "maximum_interest_rate": 12.1,
+        "minimum_age_limit": 18.0,
+        "maximum_age_limit": 75.0
+    }
+]
