@@ -26,3 +26,4 @@ google-generativeai
 python-dotenv
 gunicorn
 python-dateutil
+cloudinary
