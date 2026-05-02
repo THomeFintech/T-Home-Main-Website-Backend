@@ -70,10 +70,11 @@ app = FastAPI(
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        "https://t-home-main-website-front-end.vercel.app",          
-        "https://t-home-main-website-front-p8nramqlb-thomeadmins-projects.vercel.app",  
-        "http://localhost:5173",                                      
-        "http://localhost:3000",                                       
+        "https://t-home-main-website-front-end.vercel.app",
+        "https://t-home-main-website-front-p8nramqlb-thomeadmins-projects.vercel.app",
+        "https://t-home-main-website-frontend.onrender.com",  # ✅ ADD THIS
+        "http://localhost:5173",
+        "http://localhost:3000",
     ],
     allow_credentials=True,
     allow_methods=["*"],
